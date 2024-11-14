@@ -1,0 +1,52 @@
+   
+.navbar{
+        background-color: rgba(18, 18, 18, 1);
+        top: 0px;
+    }
+
+
+
+.card1{
+    margin: 100px 130px;
+
+}   
+
+.card2{
+    padding: 80px;
+ } 
+
+
+
+
+.p1{
+    font-size: small;
+}
+
+    
+.footer{
+
+    max-width: 100%;
+}
+.abt{
+    padding: 100px;
+}
+.author{
+    margin: 100px;
+}
+    
+@media (max-width:992px){
+    .abt{
+        text-align: center;
+    }
+}
+.footer{
+    padding-top: 30px;
+    height: 250px;
+}
+
+.footer2{
+    height: 100px;
+}
+.grid{
+    margin-top: 50px;
+}
